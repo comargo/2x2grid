@@ -10,7 +10,8 @@ body {
     flex-flow: column nowrap;
 }
 
-footer, header {
+footer,
+header {
     background-color: lightgray;
     border: 1px solid gray;
     padding: 10px;
@@ -20,6 +21,7 @@ header {
     font-size: larger;
     font-weight: bolder;
 }
+
 footer {
     font-size: smaller;
 }
